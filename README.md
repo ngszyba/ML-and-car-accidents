@@ -1,4 +1,4 @@
 # Projects
 Data Science portfolio
-Project 1: Factors influencing severe car accidents
+Project 1: Factors impacting severe car accidents
 
