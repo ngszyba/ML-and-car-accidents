@@ -5,3 +5,5 @@
 
 ![](/images/by_time_of_the_day.png)
 ![](/images/by_day_of_the_week.png)
+
+***
