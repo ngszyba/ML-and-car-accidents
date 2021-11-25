@@ -7,3 +7,5 @@
 ![](/images/by_day_of_the_week.png)
 
 ***
+* Heatmap presents trends over course of the weekdays to better asses potential patterns. 
+![](/images/heatmap_day_vs_time.png)
