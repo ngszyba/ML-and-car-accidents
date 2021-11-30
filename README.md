@@ -11,6 +11,7 @@
 * For each of the models I looked into what data categories are important for the model
 ![](/Figures/Xgb_features.png)
 * I have picked the most important categorical variables of the data set and performed exploratory data analysis to learn which characteristics stand out in serious accidents compared with other accidents?
+
 ![](/Figures/speed.png)
 ![](/Figures/road_type.png)
 
