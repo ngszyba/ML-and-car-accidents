@@ -1,4 +1,4 @@
-# [Jakub Szybinski](https://www.linkedin.com/in/jakubszybinski/)
+# <span style="color:black">some [Jakub Szybinski](https://www.linkedin.com/in/jakubszybinski/) text</span>
 ## Data Science portfolio
 ### Project 1: Factors impacting serious car accidents
 ***
