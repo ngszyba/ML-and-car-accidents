@@ -14,7 +14,7 @@
 | Decision Tree           | 0.9443 |                  
 * For each of the models I looked into what data categories are important for the model
 ![](/Figures/Xgb_features.png)
-* I have picked the most important categorical variables of the data set and performed exploratory data analysis to learn which characteristics stand out in serious accidents compared with other accidents.
+* I have picked the most important categorical variables of the data set and performed exploratory data analysis to learn which characteristics stand out in serious accidents compared with other accidents. For example: Serious accidents tend to happen more often with areas with a higher speed limit. In addition, serious accidents occur more often at dual carriageway (road type - 3) than at a roundabouts (road type 1).
 
 ![](/Figures/speed.png)
 ![](/Figures/road_type.png)
