@@ -6,8 +6,9 @@
 
 ***
 * Having separated the dataset into train and test data, I trained Logistic Regression, Decision Tree, and Xtreme Gradient Boosting models on the train set. I have evaluated performance of the 3 models by cross validation.
+* 
  | **Model**	                  | **Baseline Performance** | 
- | :----:|:----:|
+ | :----: | :----:|
  | Logistic Regression     | 0.9469 |                
 | Xtreme Gradient Boosting | 0.9467 |                
 | Decision Tree           | 0.9443 |                  
