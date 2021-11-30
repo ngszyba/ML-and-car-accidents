@@ -5,8 +5,8 @@
 
 
 ***
-* Having separated the dataset into train and test data, I trained Logistic Regression, Decision Tree, and Xtreme Gradient Boosting models on the train set. I have evaluated performance of the 3 models by cross validation.\
- 
+* Having separated the dataset into train and test data, I trained Logistic Regression, Decision Tree, and Xtreme Gradient Boosting models on the train set. I have evaluated performance of the 3 models by cross validation.
+&nbsp;
  | **Model**	                  | **Baseline Performance** | 
  | :----: | :----:|
  | Logistic Regression     | 0.9469 |                
