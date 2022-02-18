@@ -11,7 +11,7 @@
 | :----: | :----:| :----:| :----:|
 | Logistic Regression     | 0.6304 |  0.6304 |  0.2609 |            
 | Xtreme Gradient Boosting | 0.9650 |  0.9637 |  0.9321 |                     
-* The Precision and Recall were illustrated further with help of a Confusion matrix
+* The Precision and Recall were illustrated further with help of a Confusion matrix (for the Xtreme Gradient Boosting).
 ![](/Figures/confusion_matrix.png)
 * For each of the models I looked into what data categories are important for the model
 ![](/Figures/Xgb_features.png)
