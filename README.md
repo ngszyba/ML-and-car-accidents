@@ -13,12 +13,11 @@
 | Xtreme Gradient Boosting | 0.9650 |  0.9637 |  0.9321 |                     
 * The Precision and Recall were illustrated further with help of a Confusion matrix (for the Xtreme Gradient Boosting).
 ![](/Figures/confusion_matrix.png)
-* For each of the models I looked into what data features are important for the model
+* I took a closer look into what data features are important for the model
 ![](/Figures/FeatImportXGBC.png)
-* This way I have picked the most important categorical variables of the data set and performed exploratory data analysis of those to learn which characteristics stand out in serious accidents compared with other accidents (plotted as % of Serious accidents in all accident types). For example: Serious accidents tend to happen more often in areas with a higher speed limit. In addition, serious accidents occur more often at dual carriageway (road type - 3) than at a roundabouts (road type 1).
-
-![](/Figures/speed.png)
-![](/Figures/road_type.png)
+* To reconfirm the important features and also get additional info on direction in which it shifts the model interpretation I took advantage of SHAP plots.
+![](/Figures/SHAP_XGBC_2.png)
+* This way I have picked the features of the data set most important for classification into a "Serious accident" category. We can draw first conclusions that areas with certain speed limits, facilities nearby pedestrian road-crossing points, specific road types, as well as current road surface / weather conditions should draw more attention from authorities to help to combat high numbers of Serious road accidents. This is an example of how Machine Learning can indirectly help improving safety and life quality of citizens.
    
    
 ***
