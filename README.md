@@ -7,12 +7,12 @@
 <img src="/Figures/Heatmap_days.png" width="750">
 </p>
 * Having separated the dataset into train and test data and corrected for the target variable imbalance, I trained Logistic Regression and Xtreme Gradient Boosting models on the train set. I have evaluated performance of the models on the test data.  
- 
+ <div align="center">
 | **Model** | **Accuracy** | **F1-score** | **Matthews Correlation Coefficient** |
 | :----: | :----:| :----:| :----:|
 | Logistic Regression     | 0.6304 |  0.6304 |  0.2609 |            
 | Xtreme Gradient Boosting | 0.9650 |  0.9637 |  0.9321 |      
-
+</div>
 * The Precision and Recall were illustrated further with help of a Confusion matrix (for the Xtreme Gradient Boosting).
 <p align="center">
 <img src="/Figures/confusion_matrix.png" width="750">
