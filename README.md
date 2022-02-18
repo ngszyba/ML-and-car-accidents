@@ -3,7 +3,7 @@
 ### Project 1: Factors impacting serious car accidents
 ***
 * I grouped serious accidents (>=3 casualities) according to the time of the day and day of the week to estimate possible trends.
-![](/Figures/heatmap.png)
+![](/Figures/Heatmap_days.eps)
 
 * Having separated the dataset into train and test data, I trained Logistic Regression, Decision Tree, and Xtreme Gradient Boosting models on the train set. I have evaluated performance of the 3 models by cross validation.  
 *  
