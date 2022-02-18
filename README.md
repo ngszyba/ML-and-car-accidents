@@ -3,7 +3,7 @@
 ### Project 1: Factors impacting serious car accidents
 ***
 * I grouped serious accidents (>=3 casualities) according to the time of the day and day of the week to estimate possible trends. We can clearly see that rush hours during the working days are hot spots for the serious car accidents.
-<img src="/Figures/Heatmap_days.png" width="750">
+<img align="center" src="/Figures/Heatmap_days.png" width="750">
 
 * Having separated the dataset into train and test data and corrected for the target variable imbalance, I trained Logistic Regression and Xtreme Gradient Boosting models on the train set. I have evaluated performance of the models on the test data.  
 *  
