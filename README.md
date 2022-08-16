@@ -1,6 +1,6 @@
 # [Jakub Szybinski](https://www.linkedin.com/in/jakubszybinski/)
 ## Data Science portfolio
-### Project 1: Factors impacting serious car accidents
+### Project 2: Factors impacting serious car accidents
 ***
 * I grouped serious accidents (>=3 casualities) according to the time of the day and day of the week to estimate possible trends. We can clearly see that rush hours during the working days are hot spots for the serious car accidents.
 ![](/Figures/Heatmap_days.png)
